@@ -1,0 +1,21 @@
+{
+  "name": "diego",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.5.0",
+    "body-parser": "^1.18.2",
+    "connect": "^3.6.5",
+    "cors": "^2.8.4",
+    "ejs": "^2.5.7",
+    "express": "^4.15.5",
+    "request": "^2.82.0",
+    "sync-request": "^4.1.0"
+  }
+}
